@@ -66,6 +66,7 @@ Run the Streamlit app:
 ```bash
 streamlit run gui.py
 ```
+![Demo](./demo.gif)
 
 ---
 
