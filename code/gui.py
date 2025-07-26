@@ -31,7 +31,7 @@ st.markdown("""
     }
 
     h1 {
-        color: #F92672 !important;  /* Vibrant Pink for main title */
+        color: #F92672 !important; 
     }
 
     .model-switch {
